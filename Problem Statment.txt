@@ -1,0 +1,20 @@
+Problem statement: 
+1. Find out the total number of cards approved by States. 
+2. Find out the total number of cards rejected by states. 
+3. Find out the total number of cards approved by cities. 
+4. Find out the total number of cards rejected by cities.
+
+
+Data Set Description: 
+The data set consists of the following fields. 
+State: This field consists of the state names from all over India 
+City: This field consists of city names in all states 
+Approved: This fields consists of the total count of approved cards in numbers 
+Rejected: This field consists of the total count of rejected cards in numbers
+
+
+
+Usecase1: 
+In this use case we are finding the total number of cards approved by States.
+
+
